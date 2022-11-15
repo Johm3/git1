@@ -1,1 +1,4 @@
 public class Hello
+{
+System.out.printIn("Hello");//本地添加
+}

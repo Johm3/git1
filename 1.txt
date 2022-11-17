@@ -2,4 +2,5 @@ public class Hello
 {
 System.out.printIn("Hello");//本地添加
 System.out.printIn("World!");//到此一游！！！
+System.out.peintln("Yuan");//到此一游
 }
